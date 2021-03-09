@@ -255,7 +255,7 @@ def infoAbout(i):
 
     if i == 2:
         messagebox.showinfo(
-            title="About", message="STACKit\n\nThis software is created for separating different type of FILES into different folders in just ONE CLICK.\n\n-ShAms Creations.\nE-mail - contact.shams.in@gmail.com\n\nGitHub - https://github.com/shams-la")
+            title="About", message="STACKit\n\nThis software is created for separating different type of FILES into different folders in just ONE CLICK.\n\nGitHub - https://github.com/shamsla")
 
 def aboutExt():
     messagebox.showinfo(title="What Is File Extension",message="STACKit\n\nA filename extension is an identifier specified as a suffix to the name of a computer file.\nThe extension indicates a characteristic of the file contents or its intended use.\nA file extension is typically delimited from the filename with a full stop, but in some systems it is separated with spaces.\n\n** Check File Extension:\n\tRight Click On File > Click Properties >\n\tExtension will be at the end of the FILE NAME.")
