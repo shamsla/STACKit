@@ -1,11 +1,3 @@
-##########################################################
-
-#              Programmer: ShAms LA
-#              GitHub: https://github.com/shams-la
-#              Email: contact.shams.in@gmail.com
-
-##########################################################
-
 import os
 import shutil
 from files_extensions import *
