@@ -18,6 +18,3 @@ pip install pillow
 - Separate Specific files (like only Images or other filetype)
 - Create New Folder For Other Files(Unselected Files)
 - Report Bug in new window
-
-## * IMP *
-Add your email and password in bug.sendReport() [bug.py]
